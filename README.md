@@ -18,7 +18,7 @@
 ## 🔧 Сборка
 
 ```bash
-git clone https://github.com/your-username/http-proxy.git
+git clone https://github.com/Aikai17/http-proxy.git
 cd http-proxy
 mkdir build
 cd build
